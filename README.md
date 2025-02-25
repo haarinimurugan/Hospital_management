@@ -1,6 +1,10 @@
 Hospital Patient Database
+
+
 📌 Project Overview
 The Hospital Patient Database is designed to efficiently manage patients, doctors, appointments, and billing in a healthcare facility. It allows tracking of patient medical history, scheduling appointments, and managing billing records.
+
+
 
 🗂️ Features
 Patients & Doctors: Add, update, and view records.
